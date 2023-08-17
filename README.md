@@ -1,8 +1,7 @@
-# React + Vite
+npm run dev - to start 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Login page will be rendered first you can login and then travel to dashboard and home from url 
+when you logout you again need to login to access dashboard and home.
 
-Currently, two official plugins are available:
+play around :)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
